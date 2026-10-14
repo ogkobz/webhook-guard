@@ -1,5 +1,7 @@
 # webhook-guard
 
+[![tests](https://github.com/ogkobz/webhook-guard/actions/workflows/tests.yml/badge.svg)](https://github.com/ogkobz/webhook-guard/actions/workflows/tests.yml)
+
 Приёмник вебхуков, который не пропускает чужое и не обрабатывает одно и то же дважды.
 
 ## Зачем
